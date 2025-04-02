@@ -13,4 +13,4 @@
 #### www.linkedin.com/in/julio-cesar-perez-zuñiga-9a42aa170
 
 #### Mis herramientas:
-[![My Skills](https://skillicons.dev/icons?i=selenium,py,pycharm,postman,postgres,github,figma,discord,css,bash,androidstudio&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=selenium,py,pycharm,postman,postgres,github,figma,discord,css,bash,jira,androidstudio&theme=dark)](https://skillicons.dev)
